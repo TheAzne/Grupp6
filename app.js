@@ -1,3 +1,8 @@
+
+function myFunction() {
+    document.getElementById("storie").innerHTML = "Hello World";
+  }
+
 function RamPicture(){
     let ramDiv = document.getElementById("divRammstein");
     let pictureRam = document.getElementById("pictureRam");
@@ -8,3 +13,4 @@ function RamPicture(){
         ramDiv.innerText = '';
     });
 }
+
