@@ -1,6 +1,7 @@
 
 function myFunction() {
-    document.getElementById("storie").innerHTML = "Hello World";
+  //  document.getElementById("storie").innerHTML = "";
+    location.href = 'https://www.academicwork.se/insights';
   }
 
 function RamPicture(){

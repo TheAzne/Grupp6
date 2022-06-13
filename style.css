@@ -1,16 +1,32 @@
 
-
   
   .footer {
     background-color: #047364;
     color: white;
     padding: 5rem 0;
     font-family: Awesome;
+ 
+  
   }
   .footer a {
     color: white;
     text-decoration: none;
     transition: color 0.2s;
     font-family: Georgia, 'Times New Roman', Times, serif;
+  
   }
+
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.btnFuntion
+{
+display: flex;
+justify-content: center;
+padding: 50px;
+ 
+}
 
