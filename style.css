@@ -1,4 +1,14 @@
 
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: rgb(0, 211, 88) !important;
+}
+
+
   
   .footer {
     background-color: #047364;
@@ -16,6 +26,7 @@
   
   }
 
+
 ul {
     list-style-type: none;
     display: flex;
@@ -29,4 +40,5 @@ justify-content: center;
 padding: 50px;
  
 }
+
 
